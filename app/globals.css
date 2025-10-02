@@ -76,7 +76,7 @@
 }
 
 @theme inline {
-  /* Adicionando fonte Lato da Crunchyroll */
+  /* Adicionando fonte Lato*/
   --font-bebas: var(--font-bebas), sans-serif;
   --font-sans: var(--font-lato), system-ui, -apple-system, sans-serif;
   --color-background: var(--background);

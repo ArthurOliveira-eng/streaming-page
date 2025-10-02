@@ -22,7 +22,7 @@ const bebasNeue = Bebas_Neue({
 export const metadata: Metadata = {
   title: "Project Streaming - Assista Filmes e Séries Online",
   description: "Plataforma de streaming criada por Arthur Oliveira com os melhores filmes e séries",
-  generator: "v0.app",
+  generator: "tutuolv",
 }
 
 export default function RootLayout({
