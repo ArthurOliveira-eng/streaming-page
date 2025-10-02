@@ -1,7 +1,7 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Lato, Bebas_Neue } from "next/font/google"
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@Arthur/analytics/next"
 import "./globals.css"
 import { Suspense } from "react"
 
